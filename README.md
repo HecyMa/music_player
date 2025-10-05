@@ -39,8 +39,8 @@ cd music_player
 buildozer init
 ```
 3. Настройте buildozer.spec (если нужно):
-##### Отредактируйте файл buildozer.spec, убедитесь что указаны:
-* Название пакета (package.name)
+* Отредактируйте файл buildozer.spec, убедитесь что указаны:
+- Название пакета (package.name)
 * Иконка приложения (icon.filename)
 * Требуемые разрешения (android.permissions)
 * Зависимости (requirements)
